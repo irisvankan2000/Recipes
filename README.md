@@ -1,19 +1,4 @@
 
-[The introduction to markdown below is included as reference.]
-# This is a section
-Add an extra # symbol to make subsections
-## This is a subsection 
-This is an inline `code` word.
-A list:
-- this is an item
-- another item
-    - an indented item
-* this is a new list with a different bullet
-* another item of the asterisk list 
-
-
-[Nothing else to do here :) Continue below to find tasks]
-
 # Dcc course recipes
 
 ## Description
@@ -28,8 +13,6 @@ These recipes have been tested under the following circumstances:
 * Birthday parties
 * Laboratory meetings
 
-[Add to the list other circumstances to test the recipes]
-
 ## Requirements
 - Kitchen
 - Utensils
@@ -41,19 +24,14 @@ These recipes have been tested under the following circumstances:
     - Avocado
     - onion
 
-[Complete the list of requirements. Use indented lists too.]
 
 ## How to install
 
 Click on the desired .md file in GitHub to visualize online. 
 Alternatively, clone this repository locally and use your favorite text editor to preview the `.md file.`
 
-[Highlight .md words using `inline code` quotes]
-
 ## License
 This software is distributed under a Creative Commons license.
-
-[Pick the license that best fits this repository: MIT, Creative Commons, Apache] 
 
 ## Copyright
 
@@ -66,6 +44,4 @@ Use the citation in the `CITATION.CFF` file to acknowledge this work.
 ## Acknowlegdements
 - Nana
 - Raul, my mexican friend
-
-[Name anyone who has helped this project]
-Esther
+- Esther

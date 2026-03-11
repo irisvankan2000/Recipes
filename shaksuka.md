@@ -9,6 +9,7 @@
 * Coriander
 * smoked paprika
 * stock
+* olive oil
 
 ## Instructions
 1. First cut all vegetables
